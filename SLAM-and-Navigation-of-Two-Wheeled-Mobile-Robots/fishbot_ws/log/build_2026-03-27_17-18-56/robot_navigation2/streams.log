@@ -1,0 +1,28 @@
+[0.047s] Invoking command in '/home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/build/robot_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/ros_serial2wifi:/opt/ros/humble /usr/bin/cmake --build /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/build/robot_navigation2 -- -j16 -l16
+[0.394s] [0mCMake Error: The current CMakeCache.txt directory /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/build/robot_navigation2/CMakeCache.txt is different than the directory /home/hw/chapt9/fishbot_ws/build/robot_navigation2 where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt[0m
+[0.395s] Invoked command in '/home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/build/robot_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/ros_serial2wifi:/opt/ros/humble /usr/bin/cmake --build /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/build/robot_navigation2 -- -j16 -l16
+[0.411s] Invoking command in '/home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/build/robot_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/ros_serial2wifi:/opt/ros/humble /usr/bin/cmake --install /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/build/robot_navigation2
+[0.431s] -- Install configuration: ""
+[0.431s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/robot_navigation2/share/robot_navigation2/launch
+[0.431s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/robot_navigation2/share/robot_navigation2/launch/nav2.launch.py
+[0.431s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/robot_navigation2/share/robot_navigation2/config
+[0.432s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/robot_navigation2/share/robot_navigation2/config/nav2_params.yaml
+[0.432s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/robot_navigation2/share/robot_navigation2/map
+[0.433s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/robot_navigation2/share/robot_navigation2/map/bedroom.pgm
+[0.433s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/robot_navigation2/share/robot_navigation2/map/bedroom.yaml
+[0.437s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/robot_navigation2/share/ament_index/resource_index/package_run_dependencies/robot_navigation2
+[0.440s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/robot_navigation2/share/ament_index/resource_index/parent_prefix_path/robot_navigation2
+[0.442s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/robot_navigation2/share/robot_navigation2/environment/ament_prefix_path.sh
+[0.442s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/robot_navigation2/share/robot_navigation2/environment/ament_prefix_path.dsv
+[0.443s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/robot_navigation2/share/robot_navigation2/environment/path.sh
+[0.445s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/robot_navigation2/share/robot_navigation2/environment/path.dsv
+[0.446s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/robot_navigation2/share/robot_navigation2/local_setup.bash
+[0.447s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/robot_navigation2/share/robot_navigation2/local_setup.sh
+[0.449s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/robot_navigation2/share/robot_navigation2/local_setup.zsh
+[0.450s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/robot_navigation2/share/robot_navigation2/local_setup.dsv
+[0.452s] -- Installing: /home/hw/chapt9/fishbot_ws/install/robot_navigation2/share/robot_navigation2/package.dsv
+[0.455s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/robot_navigation2/share/ament_index/resource_index/packages/robot_navigation2
+[0.455s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/robot_navigation2/share/robot_navigation2/cmake/robot_navigation2Config.cmake
+[0.455s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/robot_navigation2/share/robot_navigation2/cmake/robot_navigation2Config-version.cmake
+[0.456s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/robot_navigation2/share/robot_navigation2/package.xml
+[0.462s] Invoked command in '/home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/build/robot_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/ros_serial2wifi:/opt/ros/humble /usr/bin/cmake --install /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/build/robot_navigation2

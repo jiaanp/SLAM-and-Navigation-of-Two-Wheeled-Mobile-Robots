@@ -1,0 +1,16 @@
+/home/hw/chapt9/fishbot_ws/install/robot_description/share/robot_description/urdf/robot.urdf
+/home/hw/chapt9/fishbot_ws/install/robot_description/share/ament_index/resource_index/package_run_dependencies/robot_description
+/home/hw/chapt9/fishbot_ws/install/robot_description/share/ament_index/resource_index/parent_prefix_path/robot_description
+/home/hw/chapt9/fishbot_ws/install/robot_description/share/robot_description/environment/ament_prefix_path.sh
+/home/hw/chapt9/fishbot_ws/install/robot_description/share/robot_description/environment/ament_prefix_path.dsv
+/home/hw/chapt9/fishbot_ws/install/robot_description/share/robot_description/environment/path.sh
+/home/hw/chapt9/fishbot_ws/install/robot_description/share/robot_description/environment/path.dsv
+/home/hw/chapt9/fishbot_ws/install/robot_description/share/robot_description/local_setup.bash
+/home/hw/chapt9/fishbot_ws/install/robot_description/share/robot_description/local_setup.sh
+/home/hw/chapt9/fishbot_ws/install/robot_description/share/robot_description/local_setup.zsh
+/home/hw/chapt9/fishbot_ws/install/robot_description/share/robot_description/local_setup.dsv
+/home/hw/chapt9/fishbot_ws/install/robot_description/share/robot_description/package.dsv
+/home/hw/chapt9/fishbot_ws/install/robot_description/share/ament_index/resource_index/packages/robot_description
+/home/hw/chapt9/fishbot_ws/install/robot_description/share/robot_description/cmake/robot_descriptionConfig.cmake
+/home/hw/chapt9/fishbot_ws/install/robot_description/share/robot_description/cmake/robot_descriptionConfig-version.cmake
+/home/hw/chapt9/fishbot_ws/install/robot_description/share/robot_description/package.xml

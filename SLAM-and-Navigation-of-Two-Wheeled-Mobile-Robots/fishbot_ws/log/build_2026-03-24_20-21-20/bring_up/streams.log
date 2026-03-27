@@ -1,0 +1,26 @@
+[0.039s] Invoking command in '/home/hw/chapt9/fishbot_ws/build/bring_up': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hw/chapt9/fishbot_ws/install/ros_serial2wifi:/opt/ros/humble /usr/bin/cmake --build /home/hw/chapt9/fishbot_ws/build/bring_up -- -j16 -l16
+[0.349s] [35m[1mConsolidate compiler generated dependencies of target odom2tf[0m
+[0.350s] [100%] Built target odom2tf
+[0.370s] Invoked command in '/home/hw/chapt9/fishbot_ws/build/bring_up' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hw/chapt9/fishbot_ws/install/ros_serial2wifi:/opt/ros/humble /usr/bin/cmake --build /home/hw/chapt9/fishbot_ws/build/bring_up -- -j16 -l16
+[0.384s] Invoking command in '/home/hw/chapt9/fishbot_ws/build/bring_up': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hw/chapt9/fishbot_ws/install/ros_serial2wifi:/opt/ros/humble /usr/bin/cmake --install /home/hw/chapt9/fishbot_ws/build/bring_up
+[0.395s] -- Install configuration: ""
+[0.395s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/bring_up/lib/bring_up/odom2tf
+[0.395s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/bring_up/share/bring_up/launch
+[0.395s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/bring_up/share/bring_up/launch/urdf2tf.launch.py
+[0.395s] -- Installing: /home/hw/chapt9/fishbot_ws/install/bring_up/share/bring_up/launch/bringup.launch.py
+[0.396s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/bring_up/share/ament_index/resource_index/package_run_dependencies/bring_up
+[0.396s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/bring_up/share/ament_index/resource_index/parent_prefix_path/bring_up
+[0.396s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/bring_up/share/bring_up/environment/ament_prefix_path.sh
+[0.396s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/bring_up/share/bring_up/environment/ament_prefix_path.dsv
+[0.396s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/bring_up/share/bring_up/environment/path.sh
+[0.396s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/bring_up/share/bring_up/environment/path.dsv
+[0.396s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/bring_up/share/bring_up/local_setup.bash
+[0.396s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/bring_up/share/bring_up/local_setup.sh
+[0.396s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/bring_up/share/bring_up/local_setup.zsh
+[0.396s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/bring_up/share/bring_up/local_setup.dsv
+[0.397s] -- Installing: /home/hw/chapt9/fishbot_ws/install/bring_up/share/bring_up/package.dsv
+[0.397s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/bring_up/share/ament_index/resource_index/packages/bring_up
+[0.397s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/bring_up/share/bring_up/cmake/bring_upConfig.cmake
+[0.397s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/bring_up/share/bring_up/cmake/bring_upConfig-version.cmake
+[0.397s] -- Up-to-date: /home/hw/chapt9/fishbot_ws/install/bring_up/share/bring_up/package.xml
+[0.406s] Invoked command in '/home/hw/chapt9/fishbot_ws/build/bring_up' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hw/chapt9/fishbot_ws/install/ros_serial2wifi:/opt/ros/humble /usr/bin/cmake --install /home/hw/chapt9/fishbot_ws/build/bring_up

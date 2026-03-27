@@ -1,0 +1,4 @@
+Invoking command in '/home/hw/chapt9/fishbot_ws/build/ydlidar': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/hw/chapt9/fishbot_ws/build/ydlidar -- -j16 -l16
+Invoked command in '/home/hw/chapt9/fishbot_ws/build/ydlidar' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/hw/chapt9/fishbot_ws/build/ydlidar -- -j16 -l16
+Invoking command in '/home/hw/chapt9/fishbot_ws/build/ydlidar': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/hw/chapt9/fishbot_ws/build/ydlidar
+Invoked command in '/home/hw/chapt9/fishbot_ws/build/ydlidar' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/hw/chapt9/fishbot_ws/build/ydlidar

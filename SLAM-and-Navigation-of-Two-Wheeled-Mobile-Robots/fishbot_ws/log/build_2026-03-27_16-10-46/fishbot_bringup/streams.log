@@ -1,0 +1,87 @@
+[0.013s] Invoking command in '/home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/build/fishbot_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/ros_serial2wifi:/opt/ros/humble /usr/bin/cmake /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/src/bring_up -DCMAKE_INSTALL_PREFIX=/home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup
+[0.089s] -- The C compiler identification is GNU 11.4.0
+[0.151s] -- The CXX compiler identification is GNU 11.4.0
+[0.160s] -- Detecting C compiler ABI info
+[0.252s] -- Detecting C compiler ABI info - done
+[0.258s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.259s] -- Detecting C compile features
+[0.259s] -- Detecting C compile features - done
+[0.262s] -- Detecting CXX compiler ABI info
+[0.363s] -- Detecting CXX compiler ABI info - done
+[0.370s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.371s] -- Detecting CXX compile features
+[0.371s] -- Detecting CXX compile features - done
+[0.376s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.559s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.671s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.754s] -- Found rclcpp: 16.0.17 (/opt/ros/humble/share/rclcpp/cmake)
+[0.808s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.817s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.828s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.842s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.860s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.914s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.918s] -- Found rmw_fastrtps_cpp: 6.2.10 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.049s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.082s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.131s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.146s] -- Looking for pthread.h
+[1.241s] -- Looking for pthread.h - found
+[1.241s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.338s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.340s] -- Found Threads: TRUE  
+[1.396s] -- Found tf2: 0.25.18 (/opt/ros/humble/share/tf2/cmake)
+[1.427s] -- Found tf2_ros: 0.25.18 (/opt/ros/humble/share/tf2_ros/cmake)
+[1.535s] -- Found nav_msgs: 4.9.0 (/opt/ros/humble/share/nav_msgs/cmake)
+[1.558s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.558s] -- Configured cppcheck include dirs: 
+[1.558s] -- Configured cppcheck exclude dirs and/or files: 
+[1.558s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.559s] -- Added test 'lint_cmake' to check CMake code style
+[1.560s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.562s] -- Added test 'uncrustify' to check C / C++ code style
+[1.562s] -- Configured uncrustify additional arguments: 
+[1.563s] -- Added test 'xmllint' to check XML markup files
+[1.565s] -- Configuring done
+[1.584s] -- Generating done
+[1.592s] -- Build files have been written to: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/build/fishbot_bringup
+[1.607s] Invoked command in '/home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/build/fishbot_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/ros_serial2wifi:/opt/ros/humble /usr/bin/cmake /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/src/bring_up -DCMAKE_INSTALL_PREFIX=/home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup
+[1.608s] Invoking command in '/home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/build/fishbot_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/ros_serial2wifi:/opt/ros/humble /usr/bin/cmake --build /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/build/fishbot_bringup -- -j16 -l16
+[1.661s] [35m[1mConsolidate compiler generated dependencies of target odom2tf[0m
+[1.691s] [100%] Built target odom2tf
+[1.706s] Invoked command in '/home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/build/fishbot_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/ros_serial2wifi:/opt/ros/humble /usr/bin/cmake --build /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/build/fishbot_bringup -- -j16 -l16
+[1.720s] Invoking command in '/home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/build/fishbot_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/ros_serial2wifi:/opt/ros/humble /usr/bin/cmake --install /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/build/fishbot_bringup
+[1.729s] -- Install configuration: ""
+[1.729s] -- Up-to-date: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/lib/fishbot_bringup/odom2tf
+[1.730s] -- Up-to-date: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/fishbot_bringup/config
+[1.730s] -- Up-to-date: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/fishbot_bringup/config/slam_toolbox.yaml
+[1.730s] -- Up-to-date: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/fishbot_bringup/config/ekf.yaml
+[1.730s] -- Up-to-date: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/fishbot_bringup/launch
+[1.730s] -- Up-to-date: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/fishbot_bringup/launch/urdf2tf.launch.py
+[1.730s] -- Up-to-date: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/fishbot_bringup/launch/__pycache__
+[1.730s] -- Installing: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/fishbot_bringup/launch/__pycache__/bringup.launch.cpython-310.pyc
+[1.731s] -- Up-to-date: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/fishbot_bringup/launch/__pycache__/final_bringup.launch.cpython-310.pyc
+[1.731s] -- Up-to-date: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/fishbot_bringup/launch/__pycache__/urdf2tf.launch.cpython-310.pyc
+[1.731s] -- Installing: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/fishbot_bringup/launch/bringup.launch.py
+[1.731s] -- Up-to-date: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/fishbot_bringup/launch/final_bringup.launch.py
+[1.731s] -- Up-to-date: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/fishbot_bringup/launch/test_tf_tree.launch.py
+[1.731s] -- Up-to-date: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/fishbot_bringup/rviz
+[1.732s] -- Up-to-date: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/fishbot_bringup/rviz/room.pgm
+[1.732s] -- Up-to-date: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/fishbot_bringup/rviz/room.yaml
+[1.732s] -- Up-to-date: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/fishbot_bringup/rviz/bringupRviz2.rviz
+[1.732s] -- Up-to-date: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/ament_index/resource_index/package_run_dependencies/fishbot_bringup
+[1.732s] -- Up-to-date: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/ament_index/resource_index/parent_prefix_path/fishbot_bringup
+[1.732s] -- Up-to-date: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/fishbot_bringup/environment/ament_prefix_path.sh
+[1.733s] -- Installing: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/fishbot_bringup/environment/ament_prefix_path.dsv
+[1.733s] -- Up-to-date: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/fishbot_bringup/environment/path.sh
+[1.733s] -- Installing: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/fishbot_bringup/environment/path.dsv
+[1.733s] -- Up-to-date: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/fishbot_bringup/local_setup.bash
+[1.733s] -- Up-to-date: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/fishbot_bringup/local_setup.sh
+[1.733s] -- Up-to-date: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/fishbot_bringup/local_setup.zsh
+[1.733s] -- Installing: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/fishbot_bringup/local_setup.dsv
+[1.733s] -- Installing: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/fishbot_bringup/package.dsv
+[1.733s] -- Up-to-date: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/ament_index/resource_index/packages/fishbot_bringup
+[1.733s] -- Up-to-date: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/fishbot_bringup/cmake/fishbot_bringupConfig.cmake
+[1.733s] -- Up-to-date: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/fishbot_bringup/cmake/fishbot_bringupConfig-version.cmake
+[1.734s] -- Up-to-date: /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/fishbot_bringup/share/fishbot_bringup/package.xml
+[1.736s] Invoked command in '/home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/build/fishbot_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/install/ros_serial2wifi:/opt/ros/humble /usr/bin/cmake --install /home/hw/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/SLAM-and-Navigation-of-Two-Wheeled-Mobile-Robots/fishbot_ws/build/fishbot_bringup

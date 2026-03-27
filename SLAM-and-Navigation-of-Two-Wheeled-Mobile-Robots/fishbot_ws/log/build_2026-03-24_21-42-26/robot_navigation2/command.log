@@ -1,0 +1,6 @@
+Invoking command in '/home/hw/chapt9/fishbot_ws/build/robot_navigation2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/hw/chapt9/fishbot_ws/src/robot_navigation2 -DCMAKE_INSTALL_PREFIX=/home/hw/chapt9/fishbot_ws/install/robot_navigation2
+Invoked command in '/home/hw/chapt9/fishbot_ws/build/robot_navigation2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/hw/chapt9/fishbot_ws/src/robot_navigation2 -DCMAKE_INSTALL_PREFIX=/home/hw/chapt9/fishbot_ws/install/robot_navigation2
+Invoking command in '/home/hw/chapt9/fishbot_ws/build/robot_navigation2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/hw/chapt9/fishbot_ws/build/robot_navigation2 -- -j16 -l16
+Invoked command in '/home/hw/chapt9/fishbot_ws/build/robot_navigation2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/hw/chapt9/fishbot_ws/build/robot_navigation2 -- -j16 -l16
+Invoking command in '/home/hw/chapt9/fishbot_ws/build/robot_navigation2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/hw/chapt9/fishbot_ws/build/robot_navigation2
+Invoked command in '/home/hw/chapt9/fishbot_ws/build/robot_navigation2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/hw/chapt9/fishbot_ws/build/robot_navigation2

@@ -1,0 +1,22 @@
+[0.864s] Invoking command in '/home/hw/chapt9/fishbot_ws/src/ros_serial2wifi': PYTHONPATH=/home/hw/chapt9/fishbot_ws/build/ros_serial2wifi/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hw/chapt9/fishbot_ws/install/ros_serial2wifi/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros_serial2wifi build --build-base /home/hw/chapt9/fishbot_ws/build/ros_serial2wifi/build install --record /home/hw/chapt9/fishbot_ws/build/ros_serial2wifi/install.log --single-version-externally-managed install_data
+[1.133s] running egg_info
+[1.134s] writing ../../build/ros_serial2wifi/ros_serial2wifi.egg-info/PKG-INFO
+[1.135s] writing dependency_links to ../../build/ros_serial2wifi/ros_serial2wifi.egg-info/dependency_links.txt
+[1.135s] writing entry points to ../../build/ros_serial2wifi/ros_serial2wifi.egg-info/entry_points.txt
+[1.136s] writing requirements to ../../build/ros_serial2wifi/ros_serial2wifi.egg-info/requires.txt
+[1.136s] writing top-level names to ../../build/ros_serial2wifi/ros_serial2wifi.egg-info/top_level.txt
+[1.138s] reading manifest file '../../build/ros_serial2wifi/ros_serial2wifi.egg-info/SOURCES.txt'
+[1.139s] writing manifest file '../../build/ros_serial2wifi/ros_serial2wifi.egg-info/SOURCES.txt'
+[1.139s] running build
+[1.139s] running build_py
+[1.140s] running install
+[1.140s] running install_lib
+[1.141s] running install_data
+[1.142s] running install_egg_info
+[1.143s] removing '/home/hw/chapt9/fishbot_ws/install/ros_serial2wifi/lib/python3.10/site-packages/ros_serial2wifi-0.0.0-py3.10.egg-info' (and everything under it)
+[1.144s] Copying ../../build/ros_serial2wifi/ros_serial2wifi.egg-info to /home/hw/chapt9/fishbot_ws/install/ros_serial2wifi/lib/python3.10/site-packages/ros_serial2wifi-0.0.0-py3.10.egg-info
+[1.144s] running install_scripts
+[1.161s] Installing tcp_server script to /home/hw/chapt9/fishbot_ws/install/ros_serial2wifi/lib/ros_serial2wifi
+[1.162s] Installing udp_server script to /home/hw/chapt9/fishbot_ws/install/ros_serial2wifi/lib/ros_serial2wifi
+[1.162s] writing list of installed files to '/home/hw/chapt9/fishbot_ws/build/ros_serial2wifi/install.log'
+[1.184s] Invoked command in '/home/hw/chapt9/fishbot_ws/src/ros_serial2wifi' returned '0': PYTHONPATH=/home/hw/chapt9/fishbot_ws/build/ros_serial2wifi/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hw/chapt9/fishbot_ws/install/ros_serial2wifi/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros_serial2wifi build --build-base /home/hw/chapt9/fishbot_ws/build/ros_serial2wifi/build install --record /home/hw/chapt9/fishbot_ws/build/ros_serial2wifi/install.log --single-version-externally-managed install_data
